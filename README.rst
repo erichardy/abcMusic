@@ -8,7 +8,9 @@ Check for abc music format at : http://www.abc-notation.com/
 I'm looking for python modules which could help me for the tasks...
 
 for example :
+
 - PySynth at http://home.arcor.de/mdoege/pysynth/
+
 - abcsound at http://kneuro.net/abcsound/
     http://fr.wikipedia.org/wiki/Csound
     http://www.siteduzero.com/tutoriel-3-221445-synthese-sonore-avec-csound.html
