@@ -1,4 +1,4 @@
-#!/Library/Frameworks/Python.framework/Versions/Current/bin/python
+#!/usr/bin/env python2.6
 # -*- coding: utf-8 -*-
 """
 Class abcTune :

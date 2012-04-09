@@ -1,0 +1,16 @@
+X:1
+%%MIDI chordvol 30
+%%MIDI bassvol 30
+T:The Banshee
+R:Reel
+P:ABABABABAB
+Q:190
+M:4/4
+K:G
+P:A
+|:"G"G3D "Em"EDB,D|"G"GDGB d2Bd|"Em"eged BAGA|"G"BAGE "Em"EDDE|
+"G"G3 D "Em"EDB,D|"G"GDGB d2Bd|"Em"eged BAGA|1 "G"BAGE "Em"EDDE:|2 "G"BAGE "G"ED D2|
+P:B
+|:"Am"eaag efge|"Bm"dBBA B3d|"Em"eB B2 bBgB|eBBA "Bm"B3d|
+"Am"eaag efge|"Bm"dBBA B3d|"Em"eged BAGA|1 "G"BAGE "Em"EDD2:|2 "G"BAGE "Em"EDDE|
+
