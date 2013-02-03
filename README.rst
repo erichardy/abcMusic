@@ -3,7 +3,7 @@ class abcTune
 
 A class abcTune to manage abc Music files.
 
-Check for abc music format at : http://www.abc-notation.com/
+Check for abc music format at : http://abcnotation.com/
 
 I'm looking for python modules which could help me for the tasks...
 
